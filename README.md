@@ -1,5 +1,5 @@
 # SSE-Labs
-Colab Notebooks for Stckholm School of Economics (Feb 2024)
+Colab Notebooks for Stockholm School of Economics (Feb 2024)
 
 ## Classification
 
